@@ -1,0 +1,16 @@
+{
+    "name": "VectorApi",
+    "version": "1.0.0",
+    "description": "Uses commandline questions for user to create a svg file that loads on the web",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest",
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "jest": "^27.5.1"
+    }
+}
